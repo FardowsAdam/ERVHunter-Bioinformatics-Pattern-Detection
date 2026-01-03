@@ -43,9 +43,3 @@ These patterns help identify ancient viral fossils preserved in the human genome
 
 ---
 
-## 🚀 How to Run
-
-### 1️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
