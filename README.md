@@ -34,7 +34,7 @@ These patterns help identify ancient viral fossils preserved in the human genome
 
 | File | Description |
 |------|-----------|
-| `ERVHunter.py` | Main ERV detection pipeline |
+| `ERVHunter.ipynb` | Main ERV detection pipeline |
 | `test_region.fa` | DNA region used for analysis |
 | `erv_analysis_chr6.png` | Visualization output |
 | `erv_results_chr6.csv` | Predicted ERV regions |
